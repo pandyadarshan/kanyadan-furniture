@@ -1,0 +1,27 @@
+:root {
+  --primary-color: #8f6100;
+  --light-primary-color: #d9c69e;
+  --white: #fff;
+}
+
+body {
+  a {
+    color: unset;
+    text-decoration: unset;
+
+    &:hover {
+      color: unset
+    }
+  }
+}
+
+@import url("./components/layout/layout.css");
+@import url("./components/about/about.css");
+@import url("./components/home/home.css");
+@import url("./styles/effects.css");
+@import url("./styles/common.css");
+@import url("./styles/custom.css");
+@import url("./styles/responsive.css");
+@import url("./styles/all.min.css");
+@import url("./styles/bootstrap.min.css");
+@import url("./styles/override.css");
