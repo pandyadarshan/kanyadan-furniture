@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/kanyadan-furniture/static/css/main.1a61dafe.css",
+    "main.js": "/kanyadan-furniture/static/js/main.91af4d04.js",
+    "static/js/453.864088f9.chunk.js": "/kanyadan-furniture/static/js/453.864088f9.chunk.js",
+    "static/media/fa-solid-900.ttf": "/kanyadan-furniture/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/kanyadan-furniture/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/kanyadan-furniture/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/kanyadan-furniture/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/wordrob.jpeg": "/kanyadan-furniture/static/media/wordrob.6171f363259b924cd0ee.jpeg",
+    "static/media/fa-regular-400.ttf": "/kanyadan-furniture/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/sofa.jpeg": "/kanyadan-furniture/static/media/sofa.969a2e7bc41f1679b31b.jpeg",
+    "static/media/fa-regular-400.woff2": "/kanyadan-furniture/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/kanyadan-furniture/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/kanyadan-furniture/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/quality.svg": "/kanyadan-furniture/static/media/quality.1c555068bb37d3c7d06b0a38c1797145.svg",
+    "static/media/smart.svg": "/kanyadan-furniture/static/media/smart.4acf914286b0a8b1ff7fbd351ac74420.svg",
+    "static/media/logo.svg": "/kanyadan-furniture/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/unique.svg": "/kanyadan-furniture/static/media/unique.ce7a7515f35499331ad8c362d01e1280.svg",
+    "static/media/price.svg": "/kanyadan-furniture/static/media/price.86d0a00560377fc3ab50b3aa1b4c8a55.svg",
+    "index.html": "/kanyadan-furniture/index.html",
+    "static/media/check.svg": "/kanyadan-furniture/static/media/check.7d6482d37636d2ecbb392d8d92b9d94e.svg",
+    "main.1a61dafe.css.map": "/kanyadan-furniture/static/css/main.1a61dafe.css.map",
+    "main.91af4d04.js.map": "/kanyadan-furniture/static/js/main.91af4d04.js.map",
+    "453.864088f9.chunk.js.map": "/kanyadan-furniture/static/js/453.864088f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a61dafe.css",
+    "static/js/main.91af4d04.js"
+  ]
+}
