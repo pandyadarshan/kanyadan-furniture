@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kanyadan-furniture/static/css/main.1a61dafe.css",
-    "main.js": "/kanyadan-furniture/static/js/main.91af4d04.js",
+    "main.js": "/kanyadan-furniture/static/js/main.6ddfc9de.js",
     "static/js/453.864088f9.chunk.js": "/kanyadan-furniture/static/js/453.864088f9.chunk.js",
     "static/media/fa-solid-900.ttf": "/kanyadan-furniture/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/kanyadan-furniture/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -21,11 +21,11 @@
     "index.html": "/kanyadan-furniture/index.html",
     "static/media/check.svg": "/kanyadan-furniture/static/media/check.7d6482d37636d2ecbb392d8d92b9d94e.svg",
     "main.1a61dafe.css.map": "/kanyadan-furniture/static/css/main.1a61dafe.css.map",
-    "main.91af4d04.js.map": "/kanyadan-furniture/static/js/main.91af4d04.js.map",
+    "main.6ddfc9de.js.map": "/kanyadan-furniture/static/js/main.6ddfc9de.js.map",
     "453.864088f9.chunk.js.map": "/kanyadan-furniture/static/js/453.864088f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a61dafe.css",
-    "static/js/main.91af4d04.js"
+    "static/js/main.6ddfc9de.js"
   ]
 }
