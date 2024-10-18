@@ -1,14 +1,14 @@
 import logo from "./logo.svg";
 import "./App.css";
 import { useState } from "react";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom"; // Change to createHashRouter
 import Layout from "./components/layout";
 import Home from "./pages/Home";
 import Gallery from "./pages/Gallery";
 import About from "./pages/About";
 
 function App() {
-  const router = createBrowserRouter([
+  const router = createHashRouter([ // Switch to createHashRouter
     {
       path: "/",
       element: <Layout />,
